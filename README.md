@@ -5,13 +5,18 @@ This is a simple blog project from a DVVS(Web-Thechnologies) discipline.I have u
 
 
 # Download and installation instructions:
-```npm install```
+``` javascript
+npm install
 
-`git clone https://github.com/yabluko/BlogProjectDvvs.git`
+```
+
+` git clone https://github.com/yabluko/BlogProjectDvvs.git`
 
 `cd project-name`
 
 # How to tun project:
 
-`npm start`
+```javascript 
+npm start
+```
 
