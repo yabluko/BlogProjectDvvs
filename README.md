@@ -5,17 +5,19 @@ This is a simple blog project from a DVVS(Web-Thechnologies) discipline.I have u
 
 
 # Download and installation instructions: ⚙️
+1) First install npm on your computer
 ``` javascript
 npm install
 
 ```
 
+2)Clone my repository
 ```javascript
 git clone https://github.com/yabluko/BlogProjectDvvs.git
 ```
-
+3)Enter the folder
 ```javascript
-cd project-name
+cd NodeJS
 ```
 
 # How to tun project: 🚀
