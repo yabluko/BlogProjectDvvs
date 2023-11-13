@@ -10,9 +10,13 @@ npm install
 
 ```
 
-` git clone https://github.com/yabluko/BlogProjectDvvs.git`
+```javascript
+git clone https://github.com/yabluko/BlogProjectDvvs.git
+```
 
-`cd project-name`
+```javascript
+cd project-name
+```
 
 # How to tun project:
 
