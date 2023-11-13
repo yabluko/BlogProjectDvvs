@@ -5,7 +5,8 @@ This is a simple blog project from a DVVS(Web-Thechnologies) discipline.I have u
 
 
 # Download and installation instructions: ⚙️
-1) First install npm on your computer
+
+1)First install npm on your computer
 ``` javascript
 npm install
 
