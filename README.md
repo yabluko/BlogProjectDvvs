@@ -18,7 +18,7 @@ git clone https://github.com/yabluko/BlogProjectDvvs.git
 cd project-name
 ```
 
-# How to tun project:
+# How to tun project: 🚀
 
 ```javascript 
 npm start
