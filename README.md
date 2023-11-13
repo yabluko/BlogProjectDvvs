@@ -5,7 +5,7 @@ This is a simple blog project from a DVVS(Web-Thechnologies) discipline.I have u
 
 
 # Download and installation instructions:
-`npm install`
+```npm install```
 
 `git clone https://github.com/yabluko/BlogProjectDvvs.git`
 
